@@ -95,4 +95,4 @@ O objetivo deste projeto foi transformar 500 registros de transações em **dire
 5.  O projeto utiliza dados sintéticos gerados dinamicamente via script.
 
 ---
-**Desenvolvido por Athos** - [GitHub](https://github.com/athos)
+**Desenvolvido por Athos** - [GitHub](https://github.com/athosroque)
