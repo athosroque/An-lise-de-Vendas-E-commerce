@@ -80,7 +80,7 @@ O objetivo deste projeto foi transformar 500 registros de transações em **dire
 
 ```text
 ├── data/               # Datasets gerados e processados
-├── notebooks/          # Notebook 01_eda_vendas.ipynb
+├── notebooks/          # Analise_Vendas_Ecommerce.ipynb
 ├── reports/            # Figuras exportadas com save_fig()
 ├── src/                # Scripts auxiliares
 └── requirements.txt    # Dependências do ambiente
